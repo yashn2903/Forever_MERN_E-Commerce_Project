@@ -3,7 +3,7 @@
 
 FOREVER is a clothing e-commerce platform built on the MERN stack (MongoDB, Express, React, Node.js). It features secure payments with Razorpay & Stripe, image storage via Cloudinary, and a modern, responsive UI. Designed for scalability, it delivers a seamless online shopping experience for fashion enthusiasts.
 
-![ecommerce-banner]()
+![ecommerce-banner](https://github.com/yashn2903/Forever_MERN_E-Commerce_Project/blob/main/admin/src/assets/Forever%20home.png)
 ## Project Setup
 
 **Prerequisites**
