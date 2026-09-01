@@ -19,3 +19,7 @@ select,input,textarea{
     background-color: #ffebf5;
     border-color: #c586a7;
 }
+
+button{
+  cursor: pointer;
+}
