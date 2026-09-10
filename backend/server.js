@@ -16,11 +16,8 @@ connectCloudinary()
 
 // middlewares
 app.use(express.json())
-// app.use(cors())
-app.use(cors({
-    origin: "https://forever-mern-e-commerce-project-z5t.vercel.app",
-    credentials: true
-}))
+
+app.use(cors())
 
 // api endpoints
 app.use('/api/user', userRouter)
